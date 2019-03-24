@@ -46,14 +46,14 @@
                     {
                         icon: 'el-icon-lx-cascades',
                         index: 'table',
-                        title: '基础表格'
+                        title: '车辆信息'
                     },
                     {
                         icon: 'el-icon-lx-copy',
                         index: 'tabs',
-                        title: 'tab选项卡'
+                        title: '车辆管理'
                     },
-                    {
+                   /* {
                         icon: 'el-icon-lx-calendar',
                         index: '3',
                         title: '表单相关',
@@ -75,39 +75,39 @@
                                         title: 'markdown编辑器'
                                     },
                                 ]
-                            },
-                            {
+                            },*/
+                           /* {
                                 index: 'upload',
                                 title: '文件上传'
                             }
                         ]
-                    },
+                    },*/
                     {
                         icon: 'el-icon-lx-emoji',
                         index: 'icon',
-                        title: '自定义图标'
+                        title: '行驶单号'
                     },
-                    {
+                   /* {
                         icon: 'el-icon-lx-favor',
                         index: 'charts',
-                        title: 'schart图表'
-                    },
+                        title: '用户管理'
+                    },*/
                     {
                         icon: 'el-icon-rank',
                         index: '6',
-                        title: '拖拽组件',
+                        title: '用户管理',
                         subs: [
                             {
                                 index: 'drag',
-                                title: '拖拽列表',
+                                title: '普通用户管理',
                             },
                             {
                                 index: 'dialog',
-                                title: '拖拽弹框',
+                                title: '超级管理员设置',
                             }
                         ]
                     },
-                    {
+                   /* {
                         icon: 'el-icon-lx-warn',
                         index: '7',
                         title: '错误处理',
@@ -121,7 +121,7 @@
                                 title: '404页面'
                             }
                         ]
-                    }
+                    }*/
                 ]
             }
         },
